@@ -1,5 +1,5 @@
 # Hello-Blockstack
-A simple application `hello-world` dApp on Blockstack that authenticate the user using blockstack id and displays his/her name and photo (if available).
+A simple `hello-world` dApp on Blockstack that authenticate the user using blockstack id and displays his/her name and photo (if available).
 
 Check out the tutorial here : https://docs.blockstack.org/browser/hello-blockstack.html
 ## Requirements
